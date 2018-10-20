@@ -1,1 +1,1 @@
-# SliTaz
+# SliTaz VirtualBox
