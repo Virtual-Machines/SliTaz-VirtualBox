@@ -6,4 +6,4 @@
 
 **GALLERY**
  
- ![Slitaz](https://github.com/Virtual-Machines/SliTaz-VirtualBox/blob/master/Slitaz.png)
+ ![Slitaz](https://raw.githubusercontent.com/Virtual-Machines/SliTaz-VirtualBox/master/Slitaz.png)
